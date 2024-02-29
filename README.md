@@ -1,5 +1,0 @@
-<!-- @format -->
-
-# react-project
-
-test
